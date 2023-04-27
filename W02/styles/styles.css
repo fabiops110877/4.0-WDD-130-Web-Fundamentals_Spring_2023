@@ -1,0 +1,31 @@
+/*Alinhar*/
+body {
+    text-align: center;
+  }
+
+/*Azul no fundo*/
+nav {
+    background-color: steelblue;
+    padding: 10px;
+  }
+
+/*branco no fundo*/
+a {
+  color: white;
+  margin: 40px;
+}
+
+h1 {
+  color: steelblue;
+}
+img {
+  width: 800px;
+  border: 4px solid steelblue;
+}
+p {
+  padding: 10px;
+}
+footer {
+  background-color: steelblue;
+  color: white;
+}
